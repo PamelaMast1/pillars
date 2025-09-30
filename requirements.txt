@@ -1,0 +1,7 @@
+matplotlib
+plotly
+openai
+wordcloud
+dotenv
+google-cloud-bigquery
+db-dtypes
